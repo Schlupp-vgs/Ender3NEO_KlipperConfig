@@ -2,12 +2,8 @@
 
 I recommend using the latest version, any outdated version will be labeled so.
 
-lots of improvements to be made (qof updates) but it works perfect as a firmware
+The current Version is from 2025-09-27
 
-i am currently using it in OCTOKLIPPER so if you use this in Mailsail or fluidd you may have to make a few changes but it should run fine
+Thank you GigiNewt for your great work...
 
-
-MINOR ADJUSTMENTS MAY NEED TO BE MADE IN ORDER FOR THIS TO WORK ON YOUR PRINTER
-
-update 27/3/2024 This will be shortly updated and improved 
 
