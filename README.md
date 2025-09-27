@@ -2,7 +2,7 @@
 
 I recommend using the latest version, any outdated version will be labeled so.
 
-The current Version is from 2025-09-27
+The current Version is Version4 (Current-Update-250927)
 
 Thank you GigiNewt for your great work...
 
